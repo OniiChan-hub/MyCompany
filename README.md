@@ -1,2 +1,2 @@
-# MyCompany
+# my-company
 Practice project
